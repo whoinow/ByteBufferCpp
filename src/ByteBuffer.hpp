@@ -20,7 +20,7 @@
 
 #ifndef _BYTEBUFFER_H_
 #define _BYTEBUFFER_H_
-
+#include <Arduino.h>
 #include <cstdint>
 #include <vector>
 #include <memory>
